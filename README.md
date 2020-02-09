@@ -49,3 +49,8 @@ Used Flask to design an API for dataset and to serve the HTML required for your 
    
     """
 ```
+## Step 3 - Deployed App on Heroku
+URLs for interactive dashboard to find room for rent is given below.
+
+* https://room-for-rent.herokuapp.com
+* https://room-for-rent.herokuapp.com/send
