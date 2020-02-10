@@ -4,6 +4,6 @@ Jinja2==2.10
 pandas==0.20.3
 gunicorn==19.8.1
 MarkupSafe==1.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 click==6.7
 geopy==1.21.0
